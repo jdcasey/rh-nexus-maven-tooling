@@ -20,7 +20,7 @@
   <parent>
     <groupId>com.redhat.tools.nexus.maven</groupId>
     <artifactId>rh-nexus-maven-tooling</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
   </parent>
   
   <artifactId>rh-nexus-maven-plugin</artifactId>
