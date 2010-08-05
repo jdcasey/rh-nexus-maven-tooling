@@ -19,11 +19,11 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.redhat.tools.nexus.maven</groupId>
-    <artifactId>nexus-rh-maven-tooling</artifactId>
+    <artifactId>rh-nexus-maven-tooling</artifactId>
     <version>1.2-SNAPSHOT</version>
   </parent>
   
-  <artifactId>nexus-rh-maven-plugin</artifactId>
+  <artifactId>rh-nexus-maven-plugin</artifactId>
   <packaging>maven-plugin</packaging>
   
   <name>Red Hat Nexus Lifecycle Maven Plugin</name>
